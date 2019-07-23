@@ -1,0 +1,9 @@
+{
+    "config": {
+		"imports": {
+			"vue-component-library": {
+				"/": ">=1.0.0"
+			}
+		}
+	}
+}
